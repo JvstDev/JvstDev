@@ -5,6 +5,6 @@
 
 - 👋 Hi, I’m @Jvst
 - 👀 I’m interested in Fivem Resource Development
-- 👑 Owner of GRM Development
+- 👑 I’m the owner of GRM Development
 - 🌱 I’m currently learning Typescript & React
-- 🔗 My Fivem store: https://discord.gg/grmdev
+- 🔗 Grm Development: https://discord.gg/grmdev
