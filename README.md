@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @Jvst
 - 👀 I’m interested in Fivem Resource Development
-- 👑 I’m the owner of Void Development
+- 👑 I’m the owner of Grm Development
 - 🌱 I’m currently learning Typescript & React
-- 🔗 Voide Development: https://discord.gg/voidev
+- 🔗 Grm Development: https://discord.gg/grmdev
 - 📌 Private Contact (discord): jvstxxl
